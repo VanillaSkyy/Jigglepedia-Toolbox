@@ -1,5 +1,5 @@
 # Jigglepedia-Toolbox
-App to create GIF, MP4 and WebM videos using exported frames from jigglepedia.com
+Windows app to create GIF, MP4 and WebM videos using exported frames from jigglepedia.com
 
 # Instructions
 1. Download the latest version from the Release page: https://github.com/VanillaSkyy/Jigglepedia-Toolbox/releases
