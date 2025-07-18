@@ -8,8 +8,8 @@ App to create GIF, MP4 and WebM videos using exported frames from jigglepedia.co
 
 # Build your own executable
 ## Requisites
-· Python 3.10+: https://www.python.org/downloads/
-· fmmpeg for Windows: https://www.gyan.dev/ffmpeg/builds/
+- Python 3.10+: https://www.python.org/downloads/
+- fmmpeg for Windows: https://www.gyan.dev/ffmpeg/builds/
 
 ## Instructions
 1. Download the latest source code from the Release page: https://github.com/VanillaSkyy/Jigglepedia-Toolbox/releases
