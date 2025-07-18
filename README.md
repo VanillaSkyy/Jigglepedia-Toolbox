@@ -13,7 +13,7 @@ Windows app to create GIF, MP4 and WebM videos using exported frames from jiggle
 
 ## Instructions
 1. Download the latest source code from the Release page: https://github.com/VanillaSkyy/Jigglepedia-Toolbox/releases
-2. Create a folder named 'fmmpeg' and drop 'ffmpeg.exe' in there
-3. Install 'pyinstaller' and 'tkinterdnd2' packages
-4. Run 'pyinstaller --onefile --windowed --add-data "ffmpeg;ffmpeg" --add-data "app_icon.ico;." --icon=app_icon.ico jigglepedia_toolbox.py'
-5. Done, you'll find the '.exe' inside 'dist/'
+2. Create a folder named ``fmmpeg`` and drop ``ffmpeg.exe`` in there
+3. Install ``pyinstaller`` and ``tkinterdnd2`` packages
+4. Run ``pyinstaller --onefile --windowed --add-data "ffmpeg;ffmpeg" --add-data "app_icon.ico;." --icon=app_icon.ico jigglepedia_toolbox.py``
+5. Done, you'll find the ``.exe`` inside ``dist/``
